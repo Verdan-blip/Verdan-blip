@@ -3,6 +3,10 @@
   <h3>Android developer from Kazan</h3>
 </div>
 
+<div align="center">
+  <img src="https://cs13.pikabu.ru/post_img/2020/01/08/7/1578482448146343530.gif" title="Cat" />
+</div>
+
 ### :star: About me:
 - 🔭 I’m currently working on cool android project
 - 🌱 I’m currently learning Jetpack Compose
