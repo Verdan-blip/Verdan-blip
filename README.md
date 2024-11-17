@@ -3,12 +3,12 @@
   <h3>Android developer from Kazan</h3>
 </div>
 
-### About me:
+### :star: About me:
 - 🔭 I’m currently working on cool android project
 - 🌱 I’m currently learning Jetpack Compose
 - 💬 I speak Tatar
 
-### Languages
+### :star: Languages:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" width="40" height="40" />
@@ -20,10 +20,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" width="40" height="40" />
 </p>
 
-### Tools
+### :star: Tools:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="IntelijIdea" width="40" height="40" />
   <img src="https://github.com/user-attachments/assets/e8c00db4-869e-4685-8f7d-1c5cfe5bf72d" title="Coroutines" width="40" height="40" />
   <img src="https://github.com/user-attachments/assets/6c1e8564-317f-4a9b-946d-b1b22bd957c4" title="Dagger" width="40" height="40" />
 </p>
+
+### :star: Current stack:
+- Jetpack Compose
+- MVI
+- Ktor
+- Coroutines
+- Flow
