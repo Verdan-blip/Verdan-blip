@@ -27,7 +27,3 @@
   <img src="https://github.com/user-attachments/assets/e8c00db4-869e-4685-8f7d-1c5cfe5bf72d" title="Coroutines" width="40" height="40" />
   <img src="https://github.com/user-attachments/assets/6c1e8564-317f-4a9b-946d-b1b22bd957c4" title="Dagger" width="40" height="40" />
 </p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Verdan-Blip&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Verdan-Blip&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Verdan-Blip&theme=github_dark&utcOffset=8)
